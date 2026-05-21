@@ -1,7 +1,7 @@
 <?php
 
 $host = "localhost";
-$dbname = "escola";
+$dbname = "pokedex";
 $user = "postgres";
 $pass = "postgres";
 
